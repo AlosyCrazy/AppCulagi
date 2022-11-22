@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-abstrato-com-padrao-pastel-de-memphis_53876-98950.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#camera {
+    border: 7px solid rgb(144, 144, 211);
+    border-radius: 30px;
+    width: 500px;
+    height: 400px;
+}
+img:hover{
+    border-radius: 100px;
+    width: 1200px;
+    height: 800px;
+}
+img{
+    width: 300px;
+    height: 150px;
+}
